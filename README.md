@@ -6,7 +6,7 @@
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/dinadina1/Vehicle-live-tracking-map-task.git
 ```
 
 ### 2. Install dependencies
