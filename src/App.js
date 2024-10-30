@@ -29,7 +29,7 @@ const App = () => {
       if (date) {
         try {
           const { data } = await axios.get(
-            `https://map-mjat.onrender.com/api/v1/vehicle/${date}`
+            `https://map-xki3.onrender.com/api/v1/vehicle/${date}`
           );
           setRoute(data.route);
           setMarkerPosition(data.route[0]);
